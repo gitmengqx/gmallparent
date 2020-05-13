@@ -24,6 +24,7 @@
             <version>1.0</version>
         </dependency>
     </dependencies>
+    <!--将项目打包成jar包的时候，finalName就是jar包的名字-->
     <build>
         <finalName>service-product</finalName>
         <plugins>
